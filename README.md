@@ -7,4 +7,5 @@ Twitter/Example/tweet.phpの中にあるキーを設定し、リクエストを�
 # 使用例
 <p>iOSショートカットに埋め込む</p>
 <p><a href="https://www.icloud.com/shortcuts/6ec4f5e36ffd46a5ab002d37c340a14a">ツイートを投稿</a></p>
-<p>非同期で別のページからリクエストを送ってツイートするなど</p>
+<p>非同期で別のページからリクエストを送ってツイートする</p>
+<p>など</p>
